@@ -1,0 +1,16 @@
+{
+    "name": "Paddle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d9ec55705f8f4f847971d2d9f0514a2b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
